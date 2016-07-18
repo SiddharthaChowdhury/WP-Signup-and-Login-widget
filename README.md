@@ -8,12 +8,13 @@ Its works fine
 Download and install the plugin if u need a custom signup/login widget
 In case of issue reach me at sidarthac6@gmail.com. 
 
-Here are some images uploaded of how it looks in primary-sidebar of a site
-1> Login UI
+Here are some images uploaded of how it looks in primary-sidebar of a site:
+
+[ Login UI ]
 https://github.com/SiddharthaChowdhury/WP-Signup-and-Login-widget/blob/master/Login.png
 
-2> Signup UI
+[ Signup UI ]
 https://github.com/SiddharthaChowdhury/WP-Signup-and-Login-widget/blob/master/Signup.png
 
-3> Admin config-panel (Appearance > Widgets)
+[ Admin config-panel (Appearance > Widgets) ]
 https://github.com/SiddharthaChowdhury/WP-Signup-and-Login-widget/blob/master/Admin-config.png
