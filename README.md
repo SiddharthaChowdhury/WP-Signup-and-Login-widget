@@ -11,7 +11,8 @@ In case of issue reach me at sidarthac6@gmail.com.
 Here are some images uploaded of how it looks in primary-sidebar of a site:
 
 [ Login UI ]
-https://github.com/SiddharthaChowdhury/WP-Signup-and-Login-widget/blob/master/Login.png
+![login](https://cloud.githubusercontent.com/assets/11028021/16910626/53dc7484-4cf7-11e6-8b3a-d3df73fdbdc7.png)
+
 
 [ Signup UI ]
 https://github.com/SiddharthaChowdhury/WP-Signup-and-Login-widget/blob/master/Signup.png
